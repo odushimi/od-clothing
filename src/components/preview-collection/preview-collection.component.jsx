@@ -1,5 +1,4 @@
 import React from 'react';
-import { defaultCoreCipherList } from 'constants';
 import CollectionItem from '../collection-item/collection-item.component';
 
 import './preview-collection.styles.scss';
